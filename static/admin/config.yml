@@ -1,5 +1,6 @@
 backend:
   name: github
+  repo: thomasphillips3/black-in-tech
 
 publish_mode: editorial_workflow
 media_folder: "static/img"
