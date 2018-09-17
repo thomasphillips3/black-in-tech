@@ -1,6 +1,6 @@
 ---
 title: And then a hero comes along
-hero_image: /static/img/hero.jpg
+hero_image: ''
 date: 2018-09-17T03:39:27.225Z
 description: pigs kept on shootin
 ---
