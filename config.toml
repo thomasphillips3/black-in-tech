@@ -91,7 +91,7 @@ enableGitInfo = false
     text = "Github"
 
 # Taxonomies.
-# [taxonomies]
-#   tag = "tags"
-#   category = "categories"
-#   publication_type = "publication_types"
+[taxonomies]
+  tag = "tags"
+  # category = "categories"
+  # publication_type = "publication_types"
