@@ -15,6 +15,5 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Hero Image", name: "hero_image", widget: "image", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "markdown"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Body", name: "content", widget: "markdown"}
